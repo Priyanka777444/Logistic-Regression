@@ -33,4 +33,4 @@ Predict whether a person has **heart disease (1)** or **no heart disease (0)** b
 ---
 
 ## 📊 Dataset
-Synthetic data generated using:
+Synthetic data generated using: numpy libraries(random )
